@@ -6,14 +6,3 @@
 
 ![image](https://github.com/winofsql/cs-form-mtn-009-vs2022/assets/1501327/da790ac1-c0f5-4883-882a-69ab3b30a068)
 
-- ### 構成
-  - Form1.cs 
-    - グローバルメソッド
-  - Form1.Action.cs
-    - ボタンによる処理イベント
-  - Form1.Taskbar.cs
-    - Validating によるチェック
-  - Form1.Events.cs
-    - 特殊なイベント処理( キーボード 関係等 )
-  - Form1.Taskbar.cs
-    - ステータスバーのメッセージ処理
